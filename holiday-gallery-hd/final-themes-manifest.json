@@ -1,0 +1,137 @@
+[
+ {
+  "id": "lunar-new-year-01",
+  "theme": "lunar-new-year",
+  "title": "Chinese New Year lion dance",
+  "source": "https://pexels.com/photo/red-dragon-mascot-on-the-street-4206619",
+  "file": "lunar-new-year-01.jpg",
+  "width": 1920,
+  "height": 2400
+ },
+ {
+  "id": "lunar-new-year-02",
+  "theme": "lunar-new-year",
+  "title": "Lion dance with red lanterns",
+  "source": "https://pexels.com/photo/lion-dance-show-10959540",
+  "file": "lunar-new-year-02.jpg",
+  "width": 1920,
+  "height": 2924
+ },
+ {
+  "id": "lunar-new-year-03",
+  "theme": "lunar-new-year",
+  "title": "Lion dance at a Lunar New Year festival",
+  "source": "https://pexels.com/photo/traditional-lion-dance-performance-in-jakarta-temple-30470404",
+  "file": "lunar-new-year-03.jpg",
+  "width": 1920,
+  "height": 2880
+ },
+ {
+  "id": "lunar-new-year-04",
+  "theme": "lunar-new-year",
+  "title": "Colorful Chinese New Year lion dance",
+  "source": "https://pexels.com/photo/people-performing-dragon-dance-2143493",
+  "file": "lunar-new-year-04.jpg",
+  "width": 1920,
+  "height": 1280
+ },
+ {
+  "id": "lunar-new-year-05",
+  "theme": "lunar-new-year",
+  "title": "Dragon dance and festive lanterns",
+  "source": "https://pexels.com/photo/red-dragon-mascot-on-the-street-4206619",
+  "file": "lunar-new-year-05.jpg",
+  "width": 1920,
+  "height": 1280
+ },
+ {
+  "id": "kenya-01",
+  "theme": "kenya",
+  "title": "Kenyan flag held proudly in Nairobi",
+  "source": "https://pexels.com/photo/black-man-with-flag-of-ghana-on-city-street-6567674",
+  "file": "kenya-01.jpg",
+  "width": 1920,
+  "height": 1441
+ },
+ {
+  "id": "kenya-02",
+  "theme": "kenya",
+  "title": "Nairobi skyline from Uhuru Park",
+  "source": "https://pexels.com/photo/an-aerial-photography-of-uhuru-park-near-the-city-buildings-9833516",
+  "file": "kenya-02.jpg",
+  "width": 1920,
+  "height": 1280
+ },
+ {
+  "id": "kenya-03",
+  "theme": "kenya",
+  "title": "Nairobi skyline at sunset",
+  "source": "https://pexels.com/photo/aerial-shot-of-nairobi-city-skyline-in-kenya-12851969",
+  "file": "kenya-03.jpg",
+  "width": 1920,
+  "height": 2880
+ },
+ {
+  "id": "kenya-04",
+  "theme": "kenya",
+  "title": "Uhuru Park and Nairobi city skyline",
+  "source": "https://pexels.com/photo/an-aerial-photography-of-uhuru-park-near-the-city-buildings-9833516",
+  "file": "kenya-04.jpg",
+  "width": 1920,
+  "height": 1280
+ },
+ {
+  "id": "kenya-05",
+  "theme": "kenya",
+  "title": "Modern Nairobi skyline",
+  "source": "https://pexels.com/photo/an-aerial-photography-of-uhuru-park-near-the-city-buildings-9833516",
+  "file": "kenya-05.jpg",
+  "width": 1920,
+  "height": 1280
+ },
+ {
+  "id": "celebration-01",
+  "theme": "celebration",
+  "title": "Pink birthday cake with party decorations",
+  "source": "https://pexels.com/photo/birthday-cake-on-a-dinner-table-7180728",
+  "file": "celebration-01.jpg",
+  "width": 1920,
+  "height": 1282
+ },
+ {
+  "id": "celebration-02",
+  "theme": "celebration",
+  "title": "Birthday cake with colorful candles",
+  "source": "https://pexels.com/photo/a-birthday-cake-with-lighted-candles-on-top-9319090",
+  "file": "celebration-02.jpg",
+  "width": 1920,
+  "height": 2880
+ },
+ {
+  "id": "celebration-03",
+  "theme": "celebration",
+  "title": "Celebration cake with bright candles",
+  "source": "https://pexels.com/photo/birthday-cake-with-27-candle-and-flowers-35523253",
+  "file": "celebration-03.jpg",
+  "width": 1920,
+  "height": 2880
+ },
+ {
+  "id": "celebration-04",
+  "theme": "celebration",
+  "title": "Festive cake on a decorated dining table",
+  "source": "https://pexels.com/photo/birthday-cake-on-a-dinner-table-7180728",
+  "file": "celebration-04.jpg",
+  "width": 1920,
+  "height": 2876
+ },
+ {
+  "id": "celebration-05",
+  "theme": "celebration",
+  "title": "Cake and sparkler at a birthday celebration",
+  "source": "https://pexels.com/photo/birthday-cake-on-plate-in-hands-23384637",
+  "file": "celebration-05.jpg",
+  "width": 1920,
+  "height": 1280
+ }
+]
