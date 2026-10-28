@@ -1,0 +1,407 @@
+[
+  {
+    "id": "diwali-01",
+    "theme": "diwali",
+    "title": "Decorating a Diwali rangoli with lamps",
+    "source": "https://pexels.com/photo/vibrant-diwali-rangoli-with-oil-lamps-36778018",
+    "file": "diwali-01.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "diwali-02",
+    "theme": "diwali",
+    "title": "Colorful rangoli and glowing oil lamps",
+    "source": "https://pexels.com/photo/diya-decoration-4078516",
+    "file": "diwali-02.jpg",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": "diwali-03",
+    "theme": "diwali",
+    "title": "Clay lamps illuminated at Diwali",
+    "source": "https://pexels.com/photo/couple-lighting-up-candles-in-the-evening-19338044",
+    "file": "diwali-03.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "diwali-04",
+    "theme": "diwali",
+    "title": "Lit diyas on colorful rangoli",
+    "source": "https://pexels.com/photo/diya-decoration-4078516",
+    "file": "diwali-04.jpg",
+    "width": 1920,
+    "height": 1446
+  },
+  {
+    "id": "diwali-05",
+    "theme": "diwali",
+    "title": "Close-up of rangoli and Diwali lamps",
+    "source": "https://pexels.com/photo/diya-decoration-4078516",
+    "file": "diwali-05.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "diwali-06",
+    "theme": "diwali",
+    "title": "Rangoli design with a lit diya",
+    "source": "https://pexels.com/photo/vibrant-diwali-rangoli-with-oil-lamps-36778018",
+    "file": "diwali-06.jpg",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": "diwali-07",
+    "theme": "diwali",
+    "title": "Flower rangoli and candles",
+    "source": "https://pexels.com/photo/person-sitting-in-front-of-a-flower-arrangement-wearing-a-traditional-clothes-8818579",
+    "file": "diwali-07.jpg",
+    "width": 1920,
+    "height": 2880
+  },
+  {
+    "id": "diwali-08",
+    "theme": "diwali",
+    "title": "Festive Diwali diyas and candles",
+    "source": "https://pexels.com/photo/diwali-candle-arrangement-with-diya-and-flowers-34387790",
+    "file": "diwali-08.jpg",
+    "width": 1920,
+    "height": 2880
+  },
+  {
+    "id": "diwali-09",
+    "theme": "diwali",
+    "title": "Diya arrangement and flower petals",
+    "source": "https://pexels.com/photo/diwali-candle-arrangement-with-diya-and-flowers-34387790",
+    "file": "diwali-09.jpg",
+    "width": 1920,
+    "height": 2880
+  },
+  {
+    "id": "diwali-10",
+    "theme": "diwali",
+    "title": "Sweets and candles during Diwali",
+    "source": "https://pexels.com/photo/woman-serving-food-8818634",
+    "file": "diwali-10.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "diwali-11",
+    "theme": "diwali",
+    "title": "Brass lamps, flowers and sweets",
+    "source": "https://pexels.com/photo/diwali-candle-arrangement-with-diya-and-flowers-34387790",
+    "file": "diwali-11.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "diwali-12",
+    "theme": "diwali",
+    "title": "Golden sweets and festival candles",
+    "source": "https://pexels.com/photo/woman-with-lotus-flower-decoration-on-tray-8751535",
+    "file": "diwali-12.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "diwali-13",
+    "theme": "diwali",
+    "title": "Diwali lamps and candles glowing",
+    "source": "https://pexels.com/photo/diwali-candle-arrangement-with-diya-and-flowers-34387790",
+    "file": "diwali-13.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "diwali-14",
+    "theme": "diwali",
+    "title": "Traditional oil lamps and petals",
+    "source": "https://pexels.com/photo/vibrant-diwali-rangoli-with-oil-lamps-36778018",
+    "file": "diwali-14.jpg",
+    "width": 1920,
+    "height": 2560
+  },
+  {
+    "id": "diwali-15",
+    "theme": "diwali",
+    "title": "Close-up of a traditional diya",
+    "source": "https://pexels.com/photo/lighted-diya-in-close-up-shot-13689170",
+    "file": "diwali-15.jpg",
+    "width": 1920,
+    "height": 2880
+  },
+  {
+    "id": "valentines-01",
+    "theme": "valentines",
+    "title": "Roses and candles on a dinner table",
+    "source": "https://pexels.com/photo/a-candle-and-flowers-on-the-table-at-an-elegant-banquet-16935969",
+    "file": "valentines-01.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "valentines-02",
+    "theme": "valentines",
+    "title": "Romantic dinner table with red candles",
+    "source": "https://pexels.com/photo/elegant-dinner-table-with-red-candles-29585256",
+    "file": "valentines-02.jpg",
+    "width": 1920,
+    "height": 2560
+  },
+  {
+    "id": "valentines-03",
+    "theme": "valentines",
+    "title": "Candlelit romantic dinner for two",
+    "source": "https://pexels.com/photo/faceless-couple-having-dinner-while-holding-hands-in-restaurant-6248888",
+    "file": "valentines-03.jpg",
+    "width": 1920,
+    "height": 2880
+  },
+  {
+    "id": "valentines-04",
+    "theme": "valentines",
+    "title": "Restaurant dinner with a rose centerpiece",
+    "source": "https://pexels.com/photo/couple-sitting-by-table-on-restaurant-terrace-17746232",
+    "file": "valentines-04.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "valentines-05",
+    "theme": "valentines",
+    "title": "Romantic dinner table with flowers",
+    "source": "https://pexels.com/photo/a-candle-and-flowers-on-the-table-at-an-elegant-banquet-16935969",
+    "file": "valentines-05.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "valentines-06",
+    "theme": "valentines",
+    "title": "Valentine card and chocolates",
+    "source": "https://pexels.com/photo/valentines-card-and-candles-20046313",
+    "file": "valentines-06.jpg",
+    "width": 1920,
+    "height": 2630
+  },
+  {
+    "id": "valentines-07",
+    "theme": "valentines",
+    "title": "Elegant dinner with wine and candles",
+    "source": "https://pexels.com/photo/dinner-with-wine-and-candles-19763210",
+    "file": "valentines-07.jpg",
+    "width": 1920,
+    "height": 2877
+  },
+  {
+    "id": "valentines-08",
+    "theme": "valentines",
+    "title": "Candlelit floral dinner arrangement",
+    "source": "https://pexels.com/photo/elegant-candlelit-dinner-table-setting-35981643",
+    "file": "valentines-08.jpg",
+    "width": 1920,
+    "height": 2880
+  },
+  {
+    "id": "valentines-09",
+    "theme": "valentines",
+    "title": "Heart-shaped chocolates and rose petals",
+    "source": "https://pexels.com/photo/rose-and-chocolates-15561806",
+    "file": "valentines-09.jpg",
+    "width": 1920,
+    "height": 3141
+  },
+  {
+    "id": "valentines-10",
+    "theme": "valentines",
+    "title": "Valentine cake with candlelight",
+    "source": "https://pexels.com/photo/romantic-birthday-setup-with-cake-and-balloons-30093401",
+    "file": "valentines-10.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "valentines-11",
+    "theme": "valentines",
+    "title": "Chocolate dessert for Valentine\u2019s Day",
+    "source": "https://pexels.com/photo/photo-of-person-holding-tray-of-heart-shaped-chocolates-6708968",
+    "file": "valentines-11.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "valentines-12",
+    "theme": "valentines",
+    "title": "Pink macarons and flowers",
+    "source": "https://pexels.com/photo/baked-pastries-3553703",
+    "file": "valentines-12.jpg",
+    "width": 1920,
+    "height": 2880
+  },
+  {
+    "id": "valentines-13",
+    "theme": "valentines",
+    "title": "Heart chocolates and red rose",
+    "source": "https://pexels.com/photo/rose-and-chocolates-15561806",
+    "file": "valentines-13.jpg",
+    "width": 1920,
+    "height": 2560
+  },
+  {
+    "id": "valentines-14",
+    "theme": "valentines",
+    "title": "Valentine card and chocolate box",
+    "source": "https://pexels.com/photo/a-valentines-cards-and-chocolate-on-the-wooden-table-6657646",
+    "file": "valentines-14.jpg",
+    "width": 1920,
+    "height": 2880
+  },
+  {
+    "id": "valentines-15",
+    "theme": "valentines",
+    "title": "Small gifts and chocolates",
+    "source": "https://pexels.com/photo/small-gift-boxes-with-chocolates-on-table-6578933",
+    "file": "valentines-15.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "new-year-01",
+    "theme": "new-year",
+    "title": "Fireworks over a city river",
+    "source": "https://pexels.com/photo/fireworks-display-1268667",
+    "file": "new-year-01.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "new-year-02",
+    "theme": "new-year",
+    "title": "Colorful fireworks over the skyline",
+    "source": "https://pexels.com/photo/colorful-fireworks-display-during-festival-celebration-29502853",
+    "file": "new-year-02.jpg",
+    "width": 1706,
+    "height": 2560
+  },
+  {
+    "id": "new-year-03",
+    "theme": "new-year",
+    "title": "Fireworks across the night sky",
+    "source": "https://pexels.com/photo/green-red-and-blue-fireworks-at-night-3863",
+    "file": "new-year-03.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "new-year-04",
+    "theme": "new-year",
+    "title": "Fireworks above a city street",
+    "source": "https://pexels.com/photo/fireworks-display-1268667",
+    "file": "new-year-04.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "new-year-05",
+    "theme": "new-year",
+    "title": "Dazzling fireworks over the city",
+    "source": "https://pexels.com/photo/fireworks-display-1268667",
+    "file": "new-year-05.jpg",
+    "width": 1920,
+    "height": 1228
+  },
+  {
+    "id": "new-year-06",
+    "theme": "new-year",
+    "title": "Fireworks above a pavilion skyline",
+    "source": "https://www.pexels.com/photo/spectacular-fireworks-over-pavilion-and-city-skyline-34168008/",
+    "file": "new-year-06.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "new-year-07",
+    "theme": "new-year",
+    "title": "New York skyline and fireworks",
+    "source": "https://pexels.com/photo/nyc-firework-display-for-fourth-of-july-15553388",
+    "file": "new-year-07.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "new-year-08",
+    "theme": "new-year",
+    "title": "Colorful city fireworks at night",
+    "source": "https://www.pexels.com/photo/night-cityscape-with-illuminated-skyscrapers-and-fireworks-near-river-6128407/",
+    "file": "new-year-08.jpg",
+    "width": 1920,
+    "height": 1281
+  },
+  {
+    "id": "new-year-09",
+    "theme": "new-year",
+    "title": "Champagne glasses and rose on a table",
+    "source": "https://pexels.com/photo/clear-wine-glasses-with-gold-liquid-on-white-cloth-covered-table-2504941",
+    "file": "new-year-09.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "new-year-10",
+    "theme": "new-year",
+    "title": "Champagne and golden confetti",
+    "source": "https://pexels.com/photo/filled-wine-cups-3403512",
+    "file": "new-year-10.jpg",
+    "width": 1920,
+    "height": 2874
+  },
+  {
+    "id": "new-year-11",
+    "theme": "new-year",
+    "title": "New Year toast with a sparkler",
+    "source": "https://pexels.com/photo/new-years-eve-guest-with-a-cardboard-glass-of-champagne-on-a-stick-in-front-of-a-golden-curtain-19223887",
+    "file": "new-year-11.jpg",
+    "width": 1920,
+    "height": 2520
+  },
+  {
+    "id": "new-year-12",
+    "theme": "new-year",
+    "title": "Friends toasting with champagne",
+    "source": "https://pexels.com/photo/women-celebrating-and-holding-wineglasses-and-champagne-18477570",
+    "file": "new-year-12.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "new-year-13",
+    "theme": "new-year",
+    "title": "Champagne toast and golden balloons",
+    "source": "https://pexels.com/photo/woman-holding-a-champagne-flute-7561021",
+    "file": "new-year-13.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "id": "new-year-14",
+    "theme": "new-year",
+    "title": "Fireworks reflected over city water",
+    "source": "https://pexels.com/photo/fireworks-display-1268667",
+    "file": "new-year-14.jpg",
+    "width": 1920,
+    "height": 1247
+  },
+  {
+    "id": "new-year-15",
+    "theme": "new-year",
+    "title": "Fireworks over a waterfront skyline",
+    "source": "https://pexels.com/photo/people-watching-fireworks-3869",
+    "file": "new-year-15.jpg",
+    "width": 1920,
+    "height": 1403
+  }
+]
